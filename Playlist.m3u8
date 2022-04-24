@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-id="#Vamos" tvg-name="#Vamos" group-title="Deportes",#VAMOS
+#EXTINF:0 tvg-id="#Vamos" tvg-name="#Vamos_HD" group-title="Deportes",#VAMOS
 http://127.0.0.1:6878/ace/manifest.m3u8?id=069431a1199eb2545a14c0a724095e57bdc58e9c
-#EXTINF:0 tvg-id="#Vamos BAR" tvg-name="#Vamos_BAR" group-title="Deportes",#VAMOS BAR
+#EXTINF:0 tvg-id="#Vamos BAR" tvg-name="#Vamos_BAR_HD" group-title="Deportes",#VAMOS BAR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0fdcd632dc776bc44ab2f474a6d079820d80132f
 #EXTINF:0 tvg-id="#Vamos HD" tvg-name="#Vamos_HD" group-title="Deportes",#VAMOS HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2dbea1288c3bad4a8faab395249fb5e5edfde4b6
 #EXTINF:0 group-title="Deportes",BEIN ESPAÑOL
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5da88bd42cd50b54570cd61fbae8749d9d886722
-#EXTINF:0 tvg-id="Barça TV" tvg-name="Barça_TV" group-title="Deportes",Barça TV
+#EXTINF:0 tvg-id="Barça TV" tvg-name="Barça_TV_HD" group-title="Deportes",Barça TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6f292be252c8a3288de090a1243a8ab03f1e5288
-#EXTINF:0 tvg-id="Cuatro" tvg-name="Cuatro" group-title="Deportes",CUATRO
+#EXTINF:0 tvg-id="Cuatro" tvg-name="Cuatro_HD" group-title="Deportes",CUATRO
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0746c5511701c3db76c433f684c44549debad44f
-#EXTINF:0 tvg-id="DAZN F1" tvg-name="DAZN_F1" group-title="Deportes",DANZ F1
+#EXTINF:0 tvg-id="DAZN F1" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=499bc3868758c080835e34ad32c07b80f5b990cc
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 1080p
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3f1c74da240b0933efaa572c0bdc24a7406ca7bf
@@ -21,13 +21,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4a03e14ec4e40afce24781e7c54ba9e3575df
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d85c731011d9103698b2d4af2278fb215ddca478
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 HD 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:0 tvg-id="DAZN 1" tvg-name="DAZN_1" group-title="Deportes",DAZN 1
+#EXTINF:0 tvg-id="DAZN 1" tvg-name="DAZN_1_HD" group-title="Deportes",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad7973215880d12940a75699aa7044839a13a6f1
-#EXTINF:0 tvg-id="DAZN 2" tvg-name="DAZN_2" group-title="Deportes",DAZN 2
+#EXTINF:0 tvg-id="DAZN 2" tvg-name="DAZN_2_HD" group-title="Deportes",DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
-#EXTINF:0 tvg-id="DAZN 3" tvg-name="DAZN_3" group-title="Deportes",DAZN 3
+#EXTINF:0 tvg-id="DAZN 3" tvg-name="DAZN_3_HD" group-title="Deportes",DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
-#EXTINF:0 tvg-id="DAZN 4" tvg-name="DAZN_4" group-title="Deportes",DAZN 4
+#EXTINF:0 tvg-id="DAZN 4" tvg-name="DAZN_4_HD" group-title="Deportes",DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3634ae8e7443f637222e0255f0fc70bf3f050e64
 #EXTINF:0 group-title="Deportes",ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a4d42e3b5aa3840ee91941c04d9f3bca81435b28
@@ -35,51 +35,51 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a4d42e3b5aa3840ee91941c04d9f3bca81435
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 #EXTINF:0 group-title="Deportes",ESPN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=875b2d85b624abf9fae58e41c5ed9fe612c3794d
-#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport_1" group-title="Deportes",EuroSport 1
+#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport_1_HD" group-title="Deportes",EuroSport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d330dc46d4e24a8db88ab9945c0595883bd280e
-#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport_2" group-title="Deportes",EuroSport 2
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport_2_HD" group-title="Deportes",EuroSport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f2c46015fab59944d1f75487fe1ec725f9d74720
 #EXTINF:0 tvg-id="GOL HD" tvg-name="GOL_HD" group-title="Deportes",GOL HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=49c35606668ebf7a895434ec4c9243a163d87718
-#EXTINF:0 tvg-id="LaLiga TV BAR" tvg-name="LaLiga_TV_BAR" group-title="Deportes",Liga Tv Bar
+#EXTINF:0 tvg-id="LaLiga TV BAR" tvg-name="LaLiga_TV_BAR_HD" group-title="Deportes",Liga Tv Bar
 http://127.0.0.1:6878/ace/manifest.m3u8?id=608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
-#EXTINF:0 tvg-id="M+ Deportes" tvg-name="M+_Deportes" group-title="Deportes",M+ Deportes
+#EXTINF:0 tvg-id="M+ Deportes" tvg-name="M+_Deportes_HD" group-title="Deportes",M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
-#EXTINF:0 tvg-id="M+ Deportes 1" tvg-name="M+_Deportes_1" group-title="Deportes",M+ Deportes 1
+#EXTINF:0 tvg-id="M+ Deportes 1" tvg-name="M+_Deportes_1_HD" group-title="Deportes",M+ Deportes 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
-#EXTINF:0 tvg-id="M+ Deportes 2" tvg-name="M+_Deportes_2" group-title="Deportes",M+ Deportes 2
+#EXTINF:0 tvg-id="M+ Deportes 2" tvg-name="M+_Deportes_2_HD" group-title="Deportes",M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=85bd65161dfd8c4033194da3c978c0450c9111db
-#EXTINF:0 tvg-id="M+ Deportes 3" tvg-name="M+_Deportes_3" group-title="Deportes",M+ Deportes 3
+#EXTINF:0 tvg-id="M+ Deportes 3" tvg-name="M+_Deportes_3_HD" group-title="Deportes",M+ Deportes 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0c8935087510ee1c5117243a6cc46f9d6d795faf
-#EXTINF:0 tvg-id="M+ Deportes 4" tvg-name="M+_Deportes_4" group-title="Deportes",M+ Deportes 4
+#EXTINF:0 tvg-id="M+ Deportes 4" tvg-name="M+_Deportes_4_HD" group-title="Deportes",M+ Deportes 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a88195215f9b6e38bf6363d28bfe84000a12d46a
-#EXTINF:0 tvg-id="M+ Golf" tvg-name="M+_Golf" group-title="Deportes",M+ Golf
+#EXTINF:0 tvg-id="M+ Golf" tvg-name="M+_Golf_HD" group-title="Deportes",M+ Golf
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga" group-title="Deportes",M+ La Liga
+#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga_HD" group-title="Deportes",M+ La Liga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=930a41adbecf95a86ea15cabacde9e024fd8731a
-#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga" group-title="Deportes",M+ La Liga
+#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga_HD" group-title="Deportes",M+ La Liga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga" group-title="Deportes",M+ La Liga
+#EXTINF:0 tvg-id="M+ LaLiga" tvg-name="M+_LaLiga_HD" group-title="Deportes",M+ La Liga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6904a8e397fe51013aa974f6d1293d8a889836e6
 #EXTINF:0 tvg-id="M+ LaLiga 1 HD" tvg-name="M+_LaLiga_1_HD" group-title="Deportes",M+ La Liga 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:0 tvg-id="M+ LaLiga 2" tvg-name="M+_LaLiga_2" group-title="Deportes",M+ La Liga 2
+#EXTINF:0 tvg-id="M+ LaLiga 2" tvg-name="M+_LaLiga_2_HD" group-title="Deportes",M+ La Liga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ed147166c7df93f7aecba44d4e2fc9383d028218
 #EXTINF:0 tvg-id="M+ LaLiga 2 HD" tvg-name="M+_LaLiga_2_HD" group-title="Deportes",M+ La Liga 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ac5778f5481ba48861ce7e3b6f438fa214f7161
-#EXTINF:0 tvg-id="M+ LaLiga 3" tvg-name="M+_LaLiga_3" group-title="Deportes",M+ La Liga 3
+#EXTINF:0 tvg-id="M+ LaLiga 3" tvg-name="M+_LaLiga_3_HD" group-title="Deportes",M+ La Liga 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e693d6b35ee9dc2c6a0d0593edec281268e79440
 #EXTINF:0 tvg-id="M+ LaLiga 3 HD" tvg-name="M+_LaLiga_3_HD" group-title="Deportes",M+ La Liga 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=22aa62ff527036b8ca6a96208b1025a5d4c1ed51
-#EXTINF:0 tvg-id="M+ Liga de Campeones" tvg-name="M+_Liga_de_Campeones" group-title="Deportes",M+ Liga de Campeones
+#EXTINF:0 tvg-id="M+ Liga de Campeones" tvg-name="M+_Liga_de_Campeones_HD" group-title="Deportes",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF:0 tvg-id="M+ Liga de Campeones" tvg-name="M+_Liga_de_Campeones" group-title="Deportes",M+ Liga de Campeones
+#EXTINF:0 tvg-id="M+ Liga de Campeones" tvg-name="M+_Liga_de_Campeones_HD" group-title="Deportes",M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF:0 tvg-id="M+ Liga de Campeones 1" tvg-name="M+_Liga_de_Campeones_1" group-title="Deportes",M+ Liga de Campeones 1
+#EXTINF:0 tvg-id="M+ Liga de Campeones 1" tvg-name="M+_Liga_de_Campeones_1_HD" group-title="Deportes",M+ Liga de Campeones 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b9cc8b9cc719992677637b1b7e9dbf871a638181
-#EXTINF:0 tvg-id="M+ Liga de Campeones 2" tvg-name="M+_Liga_de_Campeones_2" group-title="Deportes",M+ Liga de Campeones 2
+#EXTINF:0 tvg-id="M+ Liga de Campeones 2" tvg-name="M+_Liga_de_Campeones_2_HD" group-title="Deportes",M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fb9548ad12d9dcea796dcdeca17d525ebfc8d6cc
-#EXTINF:0 tvg-id="M+ Liga de Campeones 3" tvg-name="M+_Liga_de_Campeones_3" group-title="Deportes",M+ Liga de Campeones 3
+#EXTINF:0 tvg-id="M+ Liga de Campeones 3" tvg-name="M+_Liga_de_Campeones_3_HD" group-title="Deportes",M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a5d22610cb7bd5608c14249e3984bacb54dfe487
 #EXTINF:0 group-title="Deportes",SPORTV 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=304f4331286501c5a373a71391b8225900ff7849
