@@ -9,12 +9,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2dbea1288c3bad4a8faab395249fb5e5edfde
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5da88bd42cd50b54570cd61fbae8749d9d886722
 #EXTINF:0 tvg-id="Barça TV" tvg-name="Barça_TV" group-title="Deportes",Barça TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6f292be252c8a3288de090a1243a8ab03f1e5288
-#EXTINF:0 tvg-id="Cuatro" tvg-name="Cuatro" group-title="Deportes",CUATRO
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0746c5511701c3db76c433f684c44549debad44f
 #EXTINF:0 tvg-id="DAZN F1" tvg-name="DAZN_F1" group-title="Deportes",DANZ F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=499bc3868758c080835e34ad32c07b80f5b990cc
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e2eb18cf0811bb69b8897eec0a0aed8dcc956ad6
+#EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 FullHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=887381a96adc6547a2461e159f63c02ba3e47469
+#EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 720p
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 1080p
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3f1c74da240b0933efaa572c0bdc24a7406ca7bf
+#EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0594bdc7cb0ee7b1af5ff6634a9b346de204d00d
 #EXTINF:0 tvg-id="DAZN 1" tvg-name="DAZN_1" group-title="Deportes",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad7973215880d12940a75699aa7044839a13a6f1
 #EXTINF:0 tvg-id="DAZN 2" tvg-name="DAZN_2" group-title="Deportes",DAZN 2
@@ -82,8 +86,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b402a5fc3d93860c7f4a9c46463ff5469b643
 #EXTINF:0 group-title="Deportes",SPORTV 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4d78fadc6701008fb528202d9671e1d0f2acd486
 #EXTINF:0 tvg-id="Sky Sport F1 HD" tvg-name="Sky_Sport_F1_HD" group-title="Deportes",Sky Sports F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=18eb6dac173daad4d40e1e068ac49904122d9f58
+http://127.0.0.1:6878/ace/manifest.m3u8?id=48337499daeaaecdc9090d79533f3c6af810ac2e
 #EXTINF: tvg-id="Sky Sport F1 HD" tvg-name="Sky_Sport_F1_HD" group-title="Deportes",Sky Sports F1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=47fba6fda181b66ff807a836b00565a415f8672e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4ecc41e2e7cff9ff73575ed11e6178e741e2af88
 #EXTINF:0 tvg-id="Teledeporte" tvg-name="Teledeporte" group-title="Deportes",TELEDEPORTE
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75bb9c74eecbd508a30b3f308f62938180062c6d
+EXTINF:0 tvg-id="F1 Multilenguaje" tvg-name="None" group-title="Deportes",F1 Multilenguaje
+http://127.0.0.1:6878/ace/manifest.m3u8?id=be929b8ca3f2c8a0266c8355fb4532b5f66eb3c2
