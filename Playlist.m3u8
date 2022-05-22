@@ -91,5 +91,5 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=48337499daeaaecdc9090d79533f3c6af810a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4ecc41e2e7cff9ff73575ed11e6178e741e2af88
 #EXTINF:0 tvg-id="Teledeporte" tvg-name="Teledeporte" group-title="Deportes",TELEDEPORTE
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75bb9c74eecbd508a30b3f308f62938180062c6d
-EXTINF:0 tvg-id="F1 Multilenguaje" tvg-name="None" group-title="Deportes",F1 Multilenguaje
+EXTINF:0 tvg-id="" tvg-name="" group-title="Deportes",F1 Multilenguaje
 http://127.0.0.1:6878/ace/manifest.m3u8?id=be929b8ca3f2c8a0266c8355fb4532b5f66eb3c2
