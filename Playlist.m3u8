@@ -10,15 +10,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5da88bd42cd50b54570cd61fbae8749d9d886
 #EXTINF:0 tvg-id="Barça TV" tvg-name="Barça_TV" group-title="Deportes",Barça TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6f292be252c8a3288de090a1243a8ab03f1e5288
 #EXTINF:0 tvg-id="DAZN F1" tvg-name="DAZN_F1" group-title="Deportes",DANZ F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e2eb18cf0811bb69b8897eec0a0aed8dcc956ad6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3f1c74da240b0933efaa572c0bdc24a7406ca7bf
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 FullHD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=887381a96adc6547a2461e159f63c02ba3e47469
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 720p
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 1080p
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f1c74da240b0933efaa572c0bdc24a7406ca7bf
-#EXTINF:0 tvg-id="DAZN F1 HD" tvg-name="DAZN_F1_HD" group-title="Deportes",DANZ F1 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0594bdc7cb0ee7b1af5ff6634a9b346de204d00d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e0aabc331f34196225e0da5939c1ea6f0e4128f
 #EXTINF:0 tvg-id="DAZN 1" tvg-name="DAZN_1" group-title="Deportes",DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad7973215880d12940a75699aa7044839a13a6f1
 #EXTINF:0 tvg-id="DAZN 2" tvg-name="DAZN_2" group-title="Deportes",DAZN 2
