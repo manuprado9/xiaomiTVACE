@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<tv generator-info-name="My Listings Generator">
+<channel id="Canal 1">
+<display-name>Canal 1</display-name>
+</channel>
+<channel id="Canal 2">
+<display-name>Canal 2</display-name>
+</channel>
+<channel id="Canal 11">
+<display-name>Canal 11</display-name>
+</channel>
+<channel id="Canal 12">
+<display-name>Canal 12</display-name>
+</channel>
+<channel id="Canal 13">
+<display-name>Canal 13</display-name>
+</channel>
+<channel id="Canal 14">
+<display-name>Canal 14</display-name>
+</channel>
+<channel id="Canal 55">
+<display-name>Canal 55</display-name>
+</channel>
+
+<programme channel="Canal 1" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="hr">Pediatria</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+
+<programme channel="Canal 2" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es">Adolescencia</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+
+<programme channel="Canal 11" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es">Odontologia</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+<programme channel="Canal 12" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es"></title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+
+<programme channel="Canal 13" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es">Odontologia</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme><programme channel="Canal 1" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="hr">Hospital Elina de La Serna</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+
+<programme channel="Canal 14" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es">Spots Provinciales</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+
+<programme channel="Canal 55" start="20240913000000 -0300" stop="20300913050000 +0200">
+<title lang="es">Fuera de Linea</title>
+<category>General</category>
+<desc lang="es">General</desc>
+<link>https://hospitalelina.gba.gob.ar/</link>
+</programme>
+</tv>
