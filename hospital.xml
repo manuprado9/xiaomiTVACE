@@ -48,11 +48,11 @@
 <desc lang="es">General</desc>
 </programme>
   
-<programme channel="Canal 13" sstart="20240913000000 -0300" stop="20300913050000 -0300">
-<title lang="es">Odontologia</title>
+<programme channel="Canal 13" start="20240913000000 -0300" stop="20300913050000 -0300">
+<title lang="es">Adolescencia 2</title>
 <category>General</category>
 <desc lang="es">General</desc>
-  </programme>
+</programme>
   
 <programme channel="Canal 14" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Spots Provinciales</title>
