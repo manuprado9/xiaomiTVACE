@@ -23,6 +23,10 @@
 <channel id="Canal 14">
 <display-name>Canal 14</display-name>
 </channel>
+
+<channel id="Canal 15">
+<display-name>Canal 15</display-name>
+</channel>
   
 <programme channel="Canal 1" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Pediatria</title>
@@ -49,13 +53,19 @@
 </programme>
   
 <programme channel="Canal 13" start="20240913000000 -0300" stop="20300913050000 -0300">
-<title lang="es">Adolescencia 2</title>
+<title lang="es">Odontologia</title>
 <category>General</category>
 <desc lang="es">General</desc>
 </programme>
   
 <programme channel="Canal 14" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Spots Provinciales</title>
+<category>General</category>
+<desc lang="es">General</desc>
+  </programme>
+
+<programme channel="Canal 15" start="20240913000000 -0300" stop="20300913050000 -0300">
+<title lang="es">Canal Prueba</title>
 <category>General</category>
 <desc lang="es">General</desc>
   </programme>
