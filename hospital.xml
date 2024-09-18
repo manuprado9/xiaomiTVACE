@@ -25,43 +25,38 @@
 </channel>
   
 <programme channel="Canal 1" start="20240913000000 -0300" stop="20300913050000 -0300">
-<title lang="hr">Pediatria</title>
+<title lang="es">Pediatria</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
 </programme>
   
 <programme channel="Canal 2" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Adolescencia</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
 </programme>
   
 <programme channel="Canal 11" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Pediatria 2</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
 </programme>
   
 <programme channel="Canal 12" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Adolescencia 2</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
 </programme>
   
 <programme channel="Canal 13" sstart="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Odontologia</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
   </programme>
+  
 <programme channel="Canal 14" start="20240913000000 -0300" stop="20300913050000 -0300">
 <title lang="es">Spots Provinciales</title>
 <category>General</category>
 <desc lang="es">General</desc>
-<link>hospitalelina.gba.gob.ar</link>
   </programme>
 </tv>
